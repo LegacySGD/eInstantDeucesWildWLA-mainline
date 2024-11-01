@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Deuces Wild WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="DeucesWild" enableFreeSpin="Y" clientversion="1.0" gameId="300-2205-0" />
+	<GameClient name="Deuces Wild WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="DeucesWild" enableFreeSpin="Y" clientversion="1.0" gameId="300-2205-0" />
+	<GameClient name="Deuces Wild WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="DeucesWild" enableFreeSpin="Y" clientversion="1.0" gameId="300-2205-0" />
+</ClientConfig>
